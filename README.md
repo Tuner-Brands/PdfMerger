@@ -34,6 +34,8 @@ The PDF Merger Application is a Windows Forms application built with C# that all
    - Click "Save" to merge the files.
 
 ## Getting Started
+### Download unsigned executable.
+
 
 ### Prerequisites
 - Visual Studio with .NET Framework support
